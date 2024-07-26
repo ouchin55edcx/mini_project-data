@@ -1,0 +1,66 @@
+Pays,Age,Genre,Dépenses des clients
+France,32,Female,150.50
+Germany,45,Male,200.75
+Spain,28,Female,75.25
+Italy,39,Male,180.00
+UK,52,Female,250.30
+France,22,Male,90.00
+Germany,36,Female,175.50
+Spain,41,Male,120.75
+Italy,29,Female,95.25
+UK,48,Male,220.00
+France,35,Female,160.25
+Germany,27,Male,85.50
+Spain,50,Female,190.75
+Italy,33,Male,140.00
+UK,44,Female,210.50
+France,31,Male,130.25
+Germany,38,Female,170.00
+Spain,26,Male,5.75
+Italy,47,Female,200.25
+UK,30,Male,110.50
+France,42,,180.75
+Germany,29,Male,100.25
+Spain,55,Female,230.00
+Italy,36,Male,150.75
+UK,25,Female,80.50
+France,49,Male,215.25
+Germany,34,Female,145.00
+Spain,40,Male,175.50
+Italy,23,Female,70.25
+UK,51,Male,240.75
+France,37,Female,165.00
+Germany,43,Male,195.25
+Spain,28,Female,85.75
+Italy,46,Male,205.50
+UK,33,Female,135.25
+France,30,Male,120.00
+Germany,52,Female,225.75
+Spain,35,Male,155.50
+Italy,27,Female,90.25
+UK,48,Male,210.00
+France,39,Female,170.25
+Germany,31,Male,125.75
+Spain,44,Female,190.00
+Italy,25,Male,75.50
+UK,50,Female,220.25
+France,,Male,160.75
+Germany,41,Female,185.00
+Spain,29,Male,105.25
+Italy,53,Female,235.50
+UK,32,Male,140.25
+USA,28,Female,180.00
+Canada,45,Male,
+Australia,39,Female,210.50
+Japan,33,Male,145.75
+Brazil,47,Female,195.25
+Mars,-100,Alien,999999.99
+Moon,150,Lunar,0.01
+Atlantis,1000,Merperson,500.00
+Hogwarts,11,Wizard,100 Galleons
+Narnia,0,Talking Animal,50 Turkish Delights
+Digital Realm,NaN,AI,1010101.01
+Multiverse,∞,Non-Binary,π
+Error,#VALUE!,404,#DIV/0!
+Greece, Italy,25;30,Male;Female,100+200
+United Kingdom,Not Available,Other,Priceless
